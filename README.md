@@ -1,4 +1,5 @@
 ![Hero Image Here](https://assets.digitalocean.com/articles/alligator/boo.svg)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kamlesh240725.kamlesh240725" />
 <h1 align="center">Hi 👋, I'm Kamlesh Suthar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
