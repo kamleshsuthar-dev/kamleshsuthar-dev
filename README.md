@@ -2,6 +2,32 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kamlesh240725.kamlesh240725" />
 <h1 align="center">Hi 👋, I'm Kamlesh Suthar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+<div align="center">
+ 
+ 🔭 I’m currently working on **an E-commerce site**
+ 
+ 🌱 I’m currently learning **ReactJS, ExpressJS**
+
+💬 Ask me about **anything [here](https://github.com/kamlesh240725/kamlesh240725/issues)**
+
+⚡ Fun fact **Combustion reactions are almost always exothermic**
+
+ </div>
+
+<div align="center"> 
+  <a href="mailto:kamleshsuthar240725@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/kamlesh-suthar" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://kamleshsuthar.netlify.app/" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
+
+
 <div align="center">
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kamlesh240725/kamlesh240725/output/github-contribution-grid-snake-dark.svg" />
