@@ -6,7 +6,7 @@
  
  🔭 I’m currently working on **an E-commerce site**
  
- 🌱 I’m currently learning **ReactJS, ExpressJS**
+ 🌱 I’m currently learning **ReactJS, ExpressJS, Mongoose**
 
 💬 Ask me about **anything [here](https://github.com/kamlesh240725/kamlesh240725/issues)**
 
