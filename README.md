@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kamlesh240725.kamlesh240725" />
 <h1 align="center">Hi 👋, I'm Kamlesh Suthar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from India</h3>
 <br/><br/>
 <div align="center">
  
