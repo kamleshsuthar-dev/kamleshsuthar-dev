@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kamlesh240725.kamlesh240725" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=kamleshsuthar-dev.kamleshsuthar-dev" />
 <h1 align="center">Hi 👋, I'm Kamlesh Suthar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <br/><br/>
@@ -8,7 +8,7 @@
  
  🌱 I’m currently learning **DevOps**
 
-💬 Ask me about **anything [here](https://github.com/kamlesh240725/kamlesh240725/issues)**
+💬 Ask me about **anything [here](https://github.com/kamleshsuthar-dev/kamleshsuthar-dev/issues)**
 
 ⚡ Fun fact **Combustion reactions are almost always exothermic**
 
@@ -38,7 +38,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kamlesh240725/kamlesh240725/output/github-contribution-grid-snake-dark.svg" />
+   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/kamleshsuthar-dev/kamleshsuthar-dev/output/github-contribution-grid-snake-dark.svg" />
   
   <br/><br/><br/>
 </div>
@@ -46,11 +46,11 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kamlesh240725&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=kamleshsuthar-dev&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=kamlesh240725&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=kamleshsuthar-dev&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kamlesh240725&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=kamleshsuthar-dev&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
